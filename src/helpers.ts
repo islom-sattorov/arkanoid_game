@@ -7,7 +7,6 @@ import {
   BRICK_PADDING,
   LEVEL,
   STAGE_COLS,
-  STAGE_ROWS,
   STAGE_PADDING,
 } from "./setup";
 
