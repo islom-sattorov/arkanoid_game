@@ -1,0 +1,3 @@
+[submodule "islom_project"]
+	path = islom_project
+	url = https://github.com/islom-sattorov/python_faq_bot
